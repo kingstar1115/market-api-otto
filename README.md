@@ -1,4 +1,4 @@
-[![Test and Verify](https://github.com/otto-de/marketplace-php-sdk/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/otto-de/marketplace-php-sdk/actions/workflows/php.yml)
+[![Test and Verify](https://github.com/kingstar1115/market-api-otto/actions/workflows/php.yml/badge.svg?branch=main)](https://github.com/kingstar1115/market-api-otto/actions/workflows/php.yml)
 
 # Deprecation Notice!
 ## After 31.03.2023 we will not support the sdk anymore. There will be no further development.
